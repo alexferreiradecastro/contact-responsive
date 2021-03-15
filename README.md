@@ -22,7 +22,3 @@ site https://form-responsive.netlify.app/
 
 ![gif page](https://github.com/alexferreiradecastro/contact-responsive/blob/master/gif/page.gif)
 
-<a>
-  <a href="https://www.linkedin.com/in/alexferreiradecastro/" target="_blank">
-  <img align:center alt="Alex linkedin" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-</a>
