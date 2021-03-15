@@ -16,7 +16,7 @@ site https://form-responsive.netlify.app/
 
 
  
-    + HHP 
+    + PHP 
     + CSS
     + Mysql
 
